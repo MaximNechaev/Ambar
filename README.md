@@ -10,7 +10,7 @@ Our benefits:
 
 
 ### Project is created by:
-* Нечаев Максим https://github.com/maximnechaev
-* Фастов Михаил https://github.com/michaelfastov
-* Кулыгин Андрей https://github.com/AndrewKulygin
-* Пыхов Евгений https://github.com/yev-p
+* Нечаев Максим (https://github.com/maximnechaev)
+* Фастов Михаил (https://github.com/michaelfastov)
+* Кулыгин Андрей (https://github.com/AndrewKulygin)
+* Пыхов Евгений (https://github.com/yev-p)
